@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Cadeira Gamer", "category": "Móveis", "quantity": 5, "price": 1200.00 },
+    { "id": 2, "name": "Mouse RGB", "category": "Periféricos", "quantity": 20, "price": 150.00 },
+    { "id": 3, "name": "Teclado Mecânico", "category": "Periféricos", "quantity": 15, "price": 300.00 },
+    { "id": 4, "name": "Monitor Full HD", "category": "Eletrônicos", "quantity": 10, "price": 800.00 },
+    { "id": 5, "name": "Smartphone", "category": "Eletrônicos", "quantity": 8, "price": 2000.00 },
+    { "id": 6, "name": "Geladeira", "category": "Eletrodomésticos", "quantity": 4, "price": 3500.00 },
+    { "id": 7, "name": "Fogão", "category": "Eletrodomésticos", "quantity": 3, "price": 1200.00 },
+    { "id": 8, "name": "Fone de Ouvido", "category": "Periféricos", "quantity": 25, "price": 250.00 },
+    { "id": 9, "name": "Mesa de Escritório", "category": "Móveis", "quantity": 7, "price": 500.00 },
+    { "id": 10, "name": "Câmera DSLR", "category": "Eletrônicos", "quantity": 2, "price": 4000.00 }
+  ]
